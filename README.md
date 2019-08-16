@@ -71,8 +71,4 @@ If you do get the above console output but no transcriptions then make sure your
 
 * **Robin Kaufmann* - *Initial work* - [Relaxia](https://github.com/Relaxia)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 
